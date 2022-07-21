@@ -1,0 +1,162 @@
+header{
+    padding-top: 30px;  
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+ul{
+    list-style: none;
+}
+
+.home{
+    margin-left: 537px;
+    font-weight: 500;
+    color: black;
+}
+
+.about, .contact{
+    margin-left: 66px;
+    color: black;
+}
+
+
+.home, .about, .contact{
+    display: inline;
+    text-transform: capitalize;
+    font-family: 'poppins_medium';
+}
+
+
+.satauri{
+    display: inline-block;
+    width: 404px;
+    height: 29px;
+    margin-top: 72px;
+    margin-left: 585px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.section1{
+    margin-top: 65px;
+}
+
+.card1{
+    padding: 11px;
+    border:1px solid black;
+    border-radius: 2px;
+    width: 333px;
+    height: 540px;
+    margin-left: 126px;
+    display: inline-block;
+}
+.card2{
+    padding: 11px;
+    border:1px solid black;
+    border-radius: 2px;
+    height: 540px;
+    width: 333px;
+    margin-left: 112px;
+    display: inline-block;
+}
+.card3{
+    padding: 11px;
+    border:1px solid black;
+    border-radius: 2px;
+    height: 540px;
+    width: 333px;
+    margin-left: 98px;
+    display: inline-block;
+}
+
+.title{
+    margin-top: 10px;
+    margin-bottom: 18.48px;
+    margin-left: 15px;
+    font-size: 16px;
+    font-family: 'poppins_bold';
+}
+
+.ganmarteba{
+    margin-left: 15px; 
+    font-size: 14px;
+    font-family: 'poppins_regular';
+}
+
+.see_more{
+    margin-top: 70px;
+    margin-left: 209px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 26.22px;
+    padding-left: 26.22px;
+    font-family: 'poppins_regular';
+    font-size: 12px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+img{
+    width: 100%;
+}
+
+.section2{
+    margin-top: 62px;
+    margin-bottom: 118px;
+}
+
+.list1{
+    width: 300px;
+    height: 57px;
+    margin-left: 131px;
+    margin-top: 115px;
+    list-style-type: disc;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'open_sans_normal';
+}
+.list2{
+    width: 300px;
+    height: 57px;
+    margin-left: 187px;
+    margin-top: 115px;
+    list-style-type: disc;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'open_sans_normal';
+}
+.list3{
+    width: 300px;
+    height: 57px;
+    margin-left: 162px;
+    margin-top: 115px;
+    list-style-type: disc;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'open_sans_normal';
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'poppins_medium';
+    src: url(../fonts/Poppins-medium.ttf);
+}
+@font-face {
+    font-family: 'poppins_regular';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'poppins_bold';
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: 'open_sans_normal';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}

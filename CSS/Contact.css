@@ -1,0 +1,61 @@
+section{
+    margin-top: 112px;
+    margin-left: 206px;
+}
+
+div{
+    width: 624px;
+    height: 352px; 
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'open_sans_normal';
+    color: #7D0000;
+    font-weight: 600;
+    margin-left: 403px;
+}
+
+.paragraph_1{
+    margin-top: 132px;
+    margin-left: 0px;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: underline;
+    font-family: 'open_sans_italic';
+}
+
+.paragraph_2{
+    margin-top: 32px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'open_sans_normal';
+}
+
+.paragraph_3{
+    margin-top: 32px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'open_sans_normal';
+}
+
+@font-face {
+    font-family: 'poppins_medium';
+    src: url(../fonts/Poppins-medium.ttf);
+}
+@font-face {
+    font-family: 'poppins_regular';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'poppins_bold';
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: 'open_sans_normal';
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'open_sans_italic';
+    src: url(../fonts/OpenSans-Italic.ttf);
+}
